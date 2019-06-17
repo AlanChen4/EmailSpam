@@ -2,7 +2,7 @@
 *EmailSpam* is a tool with the purpose of sending large quantities of emails in specified periods of time. 
 Depending on the number of emails inputted and delay settings, *EmailSpam* is capable of sending thousands of emails in minutes.
 
-**Please use with caution. EmailSpam is not intended for malicious intents.**
+**Please use with caution. *EmailSpam* is not intended for malicious intents.**
 
 ## Tutorial
 **Choosing target email**: Place the destination email in the [destination file](EmailSpam/Resources/Destination.txt)
