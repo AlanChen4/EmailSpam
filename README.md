@@ -5,11 +5,11 @@ Depending on the number of emails inputted and delay settings, *EmailSpam* is ca
 **Please use with caution. *EmailSpam* is not intended for malicious intents.**
 
 ## Tutorial
-**Choosing target email**: Place the destination email in the [destination file](EmailSpam/Resources/Destination.txt)
+**Choosing Target Email**: Place the destination email in the [destination file](EmailSpam/Resources/Destination.txt)
 
 **Inputting email accounts to send from**: Place email name(s) (example@gmail.com) - on separate lines, if multiple - in the [MyEmails.txt](EmailSpam/Resources/MyEmails.txt). Each email must have the same password in order to login to multiple emails.
 
-**Message**: This is the message that the email will display
+**Message**: This is the message that the email will display.
 
 **Emails Per Account**: This is the number of emails sent from each account. For example, if there are 5 accounts, and "Emails Per Account" is set to 10, a total of 50 emails will be sent.
 
