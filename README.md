@@ -4,7 +4,7 @@ Depending on the number of emails inputted and delay settings, *EmailSpam* is ca
 
 **Please use with caution. *EmailSpam* is not intended for malicious intents.**
 
-## Tutorial
+## Usage
 **Choosing Target Email**: Place the destination email in the [destination file](EmailSpam/Resources/Destination.txt)
 
 **Inputting email accounts to send from**: Place email name(s) (example@gmail.com) - on separate lines, if multiple - in the [MyEmails.txt](EmailSpam/Resources/MyEmails.txt). Each email must have the same password in order to login to multiple emails.
@@ -15,9 +15,9 @@ Depending on the number of emails inputted and delay settings, *EmailSpam* is ca
 
 **Delay**: Delay (in seconds) between each email.
 
-## Important Configuration
+## Configuration
 Please make sure that for **each** of the email accounts inputted, the [less secure apps setting](https://myaccount.google.com/lesssecureapps) is allowed.
 
 
-## Demo Video
+## Demo
 ![Alt Text](https://github.com/AlanChen4/EmailSpam/blob/master/EmailSpam/Resources/demo.gif)
